@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="[)cL]w}?dW4xk*XliQ;/" x="0" y="0"/><block type="device_forever" id="`:E*!Xp)}]C%c_Q8cTxl" x="205" y="0"><statement name="HANDLER"><block type="device_print_message" id="[LfmVNEvkiq^*WlHr,Uf"><value name="text"><shadow type="text" id="H9J4vGEZ*oosb))/=v|y"><field name="TEXT"> my name is roxie</field></shadow></value><next><block type="device_show_leds" id="?E4,u]xQK}o:vP~@gQI}"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
